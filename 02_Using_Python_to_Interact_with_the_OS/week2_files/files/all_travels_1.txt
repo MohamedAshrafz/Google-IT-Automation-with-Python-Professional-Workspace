@@ -1,0 +1,38 @@
+location: 1
+the location is: Egypt
+the time is: 11:30
+how to go: train
+meeting type: 50
+
+location: 4
+meeting type: 10
+the location is: USA
+the time is: 05:45
+how to go: car
+
+location: 7
+the location is: Suide Arabia
+how to go: Airplane
+meeting type: 20
+the time is: 08:15
+
+location: 50
+meeting type: 15
+the time is: 16:15
+how to go: high train
+the location is: EUA
+
+location: 16
+the time is: 18:35
+how to go: metro
+the location is: Holand
+meeting type: 5
+
+
+
+
+location: 250
+the time is: 23:59
+how to go: dragon
+the location is: in the end of the universe
+meeting type: 10^100

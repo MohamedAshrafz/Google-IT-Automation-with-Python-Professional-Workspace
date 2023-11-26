@@ -1,0 +1,8 @@
+Total number of entries: 7
+Travel number: 4, location: USA, time: 05:45, trasportaion: car, groupType: 10
+Travel number: 7, location: Suide Arabia, time: 08:15, trasportaion: Airplane, groupType: 20
+Travel number: 1, location: Egypt, time: 11:30, trasportaion: train, groupType: 50
+Travel number: 50, location: EUA, time: 16:15, trasportaion: high train, groupType: 15
+Travel number: 16, location: Holand, time: 18:35, trasportaion: metro, groupType: 5
+Travel number: 250, location: in the end of the universe, time: 23:59, trasportaion: dragon, groupType: 10^100
+Travel number: 77, location: in the end of the universe, time: unknown, trasportaion: unknown, groupType: 20^100
